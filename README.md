@@ -1,5 +1,5 @@
 ## FCC-Tribute-Page
-##### Tribute page project for <a href="https://freecodecamp.org/" target="_blank">freeCodeCamp</a>
+##### Tribute page project for [freeCodeCamp](https://freecodecamp.org/)
 ##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Tribute-Page/blob/master/index.html)
 
 <br/>
