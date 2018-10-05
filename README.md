@@ -1,6 +1,5 @@
 ## FCC-Tribute-Page
 ##### Tribute page project for [freeCodeCamp](https://www.freecodecamp.org/)
-
 ##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Tribute-Page/blob/master/index.html)
 
 <br/>
